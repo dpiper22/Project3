@@ -18,7 +18,7 @@ import twitter_info # same deal as always...
 import json
 import sqlite3
 
-## Your name:  David Piper
+## Your name: David Piper
 ## The names of anyone you worked with on this project:
 
 #####
@@ -120,6 +120,7 @@ cur.execute('CREATE TABLE Users (user_id INTEGER PRIMARY KEY UNIQUE, screen_name
 
 # All of the following sub-tasks require writing SQL statements 
 # and executing them using Python.
+
 
 # Make a query to select all of the records in the Users database. 
 # Save the list of tuples in a variable called users_info.
